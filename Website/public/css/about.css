@@ -1,0 +1,54 @@
+.abouttext{
+  width: 50%;
+  height: 100%;
+  border: 3px solid black;
+  border-radius: 3px;
+  min-width: 150px;
+  padding: 5px;
+  margin-left: 25%;
+}
+
+
+
+
+
+
+#loginbutton{
+  font-weight: bold;
+}
+
+#homebutton{
+  background-color: #FFFFFF;
+}
+
+#homebutton:hover{
+  background-color: #C7C7C7;
+  border-radius: 3px;
+}
+
+#loginbutton:hover{
+  background-color: #C7C7C7;
+  border-radius: 3px;
+}
+
+#profile:hover{
+  background-color: #C7C7C7;
+  border-radius: 3px;
+}
+
+#contactbutton:hover{
+  background-color: #C7C7C7;
+  border-radius: 3px;
+}
+
+#aboutbutton{
+  background-color: #e7e7e7;
+}
+#aboutbutton:hover{
+  color: #777;
+}
+
+#newquestionbutton:hover{
+  background-color: #C7C7C7;
+  border-radius: 3px;
+}

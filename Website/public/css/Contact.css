@@ -1,0 +1,59 @@
+#loginbutton{
+  font-weight: bold;
+}
+
+#homebutton{
+  background-color: inherit;
+}
+
+#homebutton:hover{
+  background-color: #C7C7C7;
+  border-radius: 3px;
+}
+
+#loginbutton:hover{
+  background-color: #C7C7C7;
+  border-radius: 3px;
+}
+
+#profile:hover{
+  background-color: #C7C7C7;
+  border-radius: 3px;
+}
+
+#contactbutton{
+  background-color: #e7e7e7;
+}
+
+
+
+#aboutbutton:hover{
+  background-color: #C7C7C7;
+  border-radius: 3px;
+}
+
+#newquestionbutton:hover{
+  background-color: #C7C7C7;
+  border-radius: 3px;
+}
+
+#navbarlogo{
+  height: 50px;
+  padding-right: 20px;
+}
+
+
+.map{
+  float: right;
+}
+
+.txt{
+  max-width: 500px;
+  resize: none;
+  float: left;
+}
+
+.btnsmbt{
+  float: left;
+  margin-top: 400px;
+}

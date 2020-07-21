@@ -1,0 +1,76 @@
+#profile:hover{
+  background-color: #C7C7C7;
+  border-radius: 3px;
+}
+
+#loginbutton:hover{
+  background-color: #C7C7C7;
+  border-radius: 3px;
+}
+
+#contactbutton:hover{
+  background-color: #C7C7C7;
+  border-radius: 3px;
+}
+
+#aboutbutton:hover{
+  background-color: #C7C7C7;
+  border-radius: 3px;
+}
+
+#newquestionbutton{
+  background-color: #e7e7e7;
+  color: #555;
+}
+
+#navbarlogo{
+  height: 50px;
+  padding-right: 20px;
+}
+
+#homebutton:hover{
+  background-color: #C7C7C7;
+  color: #333;
+  border-radius: 3px;
+}
+
+
+.resize{
+
+  width: 40px;
+  height: auto;
+}
+
+
+.resize:hover{
+  text-decoration: none;
+}
+
+.settitle{
+  border: 3px solid black;
+  border-radius: 3px;
+  display:inline-block;
+  overflow: auto;
+  width: 75%;
+  margin-left: 12%;
+  height: auto;
+}
+
+.titleinput{
+  margin-top: 20px;
+  margin-left: 25%;
+  margin-bottom: 50px;
+  font-size: 30px;
+}
+
+.questiontext{
+  width: 100%;
+  margin-left: 5px;
+  max-width: 98.5%;
+  resize: none;
+}
+
+.qtext{
+  font-size: 150px;
+  color: red;
+}

@@ -1,0 +1,198 @@
+#loginbutton{
+  font-weight: bold;
+}
+
+#loginbutton:hover{
+  background-color: #C7C7C7;
+  border-radius: 3px;
+}
+
+#homebutton:hover{
+  background-color: #C7C7C7;
+  border-radius: 3px;
+}
+
+#profile:hover{
+  background-color: #C7C7C7;
+  border-radius: 3px;
+}
+
+#contactbutton:hover{
+  background-color: #C7C7C7;
+  border-radius: 3px;
+}
+
+#aboutbutton:hover{
+  background-color: #C7C7C7;
+  border-radius: 3px;
+}
+
+#newquestionbutton:hover{
+  background-color: #C7C7C7;
+  border-radius: 3px;
+}
+
+#navbarlogo{
+  height: 50px;
+  padding-right: 20px;
+}
+
+.question{
+
+  border: 3px solid black;
+  border-radius: 3px;
+  display:inline-block;
+  overflow: auto;
+  width: 50%;
+  margin-left: 25%;
+  height: auto;
+}
+
+.x{
+  border-style: hidden;
+  width: 20px;
+  height: 20px;
+  background-color: #E11B32;
+  float: right;
+  border-radius: 45px;
+  text-decoration: none;
+}
+
+.vote{
+  float: left;
+  padding-top: 60px;
+  vertical-align: middle;
+}
+
+.down:hover{
+  opacity: 0.5;
+}
+
+.up:hover{
+  opacity: 0.5;
+}
+.resize{
+
+  width: 40px;
+  height: auto;
+}
+
+
+.resize:hover{
+  text-decoration: none;
+}
+
+.vote .count{
+  padding-left: 8px;
+  padding-top: 15px;
+}
+
+.qtitle{
+  position: relative;
+  padding-right: 44px;
+}
+
+.qtitle h2{
+  text-align: center;
+
+}
+.q{
+  position: relative;
+  padding-right: 44px;
+  border: 1px solid black;
+
+  height: auto;
+  width: 82%;
+  margin: 0 auto;
+}
+
+.qtext{
+  padding-left: 10px;
+}
+
+
+.navbar-toggle{
+  background-color: red;
+}
+
+.tags{
+  position: relative;
+  padding-right: 44px;
+  height: auto;
+  width: 82%;
+  margin: 0 auto;
+}
+
+.tagstext{
+  margin-top: 15px;
+}
+
+
+.questiontext{
+  resize: vertical;
+}
+
+.form-group{
+  padding-left: 20px;
+  padding-right: 20px;
+
+}
+
+
+.titleinput{
+  width: 65%;
+  font-size: 30px;
+}
+
+.questiontext{
+
+}
+
+.postme {
+  padding-top: 100px
+  border-radius: 4px;
+  background-color: white;
+  border: 3px solid black;;
+  color: black;
+  text-align: center;
+  font-size: 28px;
+  padding: 20px;
+  width: 200px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+}
+
+.postme span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.postme span:after {
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.postme:hover span {
+  padding-right: 25px;
+}
+
+.postme:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+
+.register{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+
+.btnreg{
+  font-size: 20px;
+}
